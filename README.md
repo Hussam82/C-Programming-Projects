@@ -1,4 +1,4 @@
-# C-Programming_Project_1
+# C-Programming_Project_1 Vehicle Control System
 ## The Project is implemented according to the following specs:
 #### 1. Ask the user if he/she wants
 ###### a. Turn on the vehicle engine
